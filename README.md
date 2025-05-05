@@ -1,1 +1,1 @@
-# SATA : Spatial Autocorrelation Token Analysis for Enhancing the Robustness of Vision Transformers
+# SATA: Spatial Autocorrelation Token Analysis for Enhancing the Robustness of Vision Transformers
